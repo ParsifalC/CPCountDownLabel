@@ -29,4 +29,5 @@ pod setup
 
 #TODO
 1.Transition animator
+
 2.Diversity style
